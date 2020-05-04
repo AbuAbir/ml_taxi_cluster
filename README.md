@@ -1,0 +1,2 @@
+The .ipynb file shows the code for the project. The folium map might not show the maps in the github web view, that is why
+I mentioned the .pdf file to show how the map looks like with different cluster numbers when clicked. 
