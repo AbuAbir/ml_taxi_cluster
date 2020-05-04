@@ -4,3 +4,5 @@ I mentioned the .pdf file to show how the map looks like with different cluster 
 
 K-means, DBSCAN, HDBSCAN and hybrid model of HDBSCAN have been demonstrated and the parameters and explanations have been written in the
 write up .pdf sent in email.
+
+When running the .ipynb file, two .html file would be generated so that you can see the customized map in later time. "hybrid.html" is one of them.
